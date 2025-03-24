@@ -4,7 +4,7 @@ local games = {
     [14958096162] = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/Evolve.lua", -- Evolve
     [3956818381] = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/ninjaLegends.lua", -- Ninja Legends
     [11445923563] = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/oneFruitSim.lua", -- One fruit Simulator
-    [16732694052] = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/Fisch.lua", -- Fisch
+    [18901165922] = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/PetGo.lua" -- pet go 
 }
 
 return games
