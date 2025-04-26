@@ -3,7 +3,6 @@ if not game:IsLoaded() then
     task.wait(1)
 end
 
-local loggerUrl = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/logger.lua" -- I only Log your game name and Executor nothing else!
 local ListURl = "https://raw.githubusercontent.com/IsThisMe01/ProjectLV2/refs/heads/main/Game_Lists.lua"
 local games = loadstring(game:HttpGet(ListURl))()
 
