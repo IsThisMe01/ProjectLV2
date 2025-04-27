@@ -10,7 +10,6 @@ local success, errorMsg = pcall(function()
     for placeId, scriptUrl in pairs(games) do
         if game.PlaceId == placeId then
             loadstring(game:HttpGet(scriptUrl))()
-            loadstring(game:HttpGet(loggerUrl))()
         end
     end
 end)
